@@ -1,4 +1,4 @@
-# Creates Global Active Power (kilowatts) plot
+# Creates Global Active Power (in kilowatts) plot
 
 #if file is not in the working directory, download and unzip
 if (!file.exists("household_power_consumption.txt")){
